@@ -1,0 +1,57 @@
+{
+	"1":{
+		"grid" : [[0, 1, 0],[1, 1, 1]],
+		"textures" : "rouge"
+	},
+
+	"2": {
+		"grid" : [[0, 1, 1],[1, 1, 0]],
+		"textures" : "jaune"
+	},
+
+	"3":{
+		"grid" : [[1, 1, 1],[1, 0, 0]],
+		"textures" : "rose"
+	},
+
+	"4":{
+		"grid" : [[1, 1, 1, 1]],
+		"textures" : "blanc"
+	},
+
+	"5":{
+		"grid" : [[1, 1],[1, 1]],
+		"textures" : "bleumarine"
+	},
+
+	"6": {
+		"grid" : [[1, 1, 0],[0, 1, 1]],
+		"textures" : "marron"
+	},
+
+	"7":{
+		"grid" : [[1, 1, 1],[0, 0, 1]],
+		"textures" : "violet"
+	},
+
+	"8":{
+		"grid" : [[0, 0, 1],[1, 1, 1],[1, 0, 0]],
+		"textures" : "orange"
+	},
+
+	"9":{
+		"grid" : [[1, 1, 0],[1, 1, 1]],
+		"textures" : "gris"
+	},
+
+	"10":{
+		"grid" : [[1, 0, 1],[1, 1, 1]],
+		"textures" : "magenta"
+	},
+
+	"11":{
+		"grid" : [[0, 1, 0],[1, 1, 1],[0, 1, 0]],
+		"textures" : "vert"
+	}
+
+}
